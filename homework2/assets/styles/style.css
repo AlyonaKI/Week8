@@ -1,0 +1,12 @@
+.card {
+  border: none;
+}
+.btn {
+  border-radius: 20px;
+}
+a {
+  text-decoration: none;
+}
+#card-form {
+  background-color: #ec615b;
+}
